@@ -137,7 +137,7 @@ user_pref("browser.ping-centre.telemetry", false);
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
 
 /***POCKET***/
-user_pref("browser.pocket.enabled", false);
+// user_pref("browser.pocket.enabled", false);\
 
 /***DISABLE AUTOFILL***/
 user_pref("extensions.formautofill.addresses.enabled", false);
